@@ -1,0 +1,14 @@
+C:\anton\programming\C#\GeneralStructureOfAC#Program\bin\Debug\net8.0\GeneralStructureOfAC#Program.exe
+C:\anton\programming\C#\GeneralStructureOfAC#Program\bin\Debug\net8.0\GeneralStructureOfAC#Program.deps.json
+C:\anton\programming\C#\GeneralStructureOfAC#Program\bin\Debug\net8.0\GeneralStructureOfAC#Program.runtimeconfig.json
+C:\anton\programming\C#\GeneralStructureOfAC#Program\bin\Debug\net8.0\GeneralStructureOfAC#Program.dll
+C:\anton\programming\C#\GeneralStructureOfAC#Program\bin\Debug\net8.0\GeneralStructureOfAC#Program.pdb
+C:\anton\programming\C#\GeneralStructureOfAC#Program\obj\Debug\net8.0\GeneralStructureOfAC#Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\anton\programming\C#\GeneralStructureOfAC#Program\obj\Debug\net8.0\GeneralStructureOfAC#Program.AssemblyInfoInputs.cache
+C:\anton\programming\C#\GeneralStructureOfAC#Program\obj\Debug\net8.0\GeneralStructureOfAC#Program.AssemblyInfo.cs
+C:\anton\programming\C#\GeneralStructureOfAC#Program\obj\Debug\net8.0\GeneralStructureOfAC#Program.csproj.CoreCompileInputs.cache
+C:\anton\programming\C#\GeneralStructureOfAC#Program\obj\Debug\net8.0\GeneralStructureOfAC#Program.dll
+C:\anton\programming\C#\GeneralStructureOfAC#Program\obj\Debug\net8.0\refint\GeneralStructureOfAC#Program.dll
+C:\anton\programming\C#\GeneralStructureOfAC#Program\obj\Debug\net8.0\GeneralStructureOfAC#Program.pdb
+C:\anton\programming\C#\GeneralStructureOfAC#Program\obj\Debug\net8.0\GeneralStructureOfAC#Program.genruntimeconfig.cache
+C:\anton\programming\C#\GeneralStructureOfAC#Program\obj\Debug\net8.0\ref\GeneralStructureOfAC#Program.dll
